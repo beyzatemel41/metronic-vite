@@ -1,0 +1,12 @@
+# Her şeyi ignore et
+*
+
+# .gitignore dosyasını dahil et
+!.gitignore
+
+# Ebeveyn klasörleri tek tek dahil et
+!/metronic-v9.2.3/
+!/metronic-v9.2.3/metronic-react/
+!/metronic-v9.2.3/metronic-react/typescript/
+!/metronic-v9.2.3/metronic-react/typescript/vite/
+!/metronic-v9.2.3/metronic-react/typescript/vite/**
