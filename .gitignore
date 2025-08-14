@@ -1,0 +1,7 @@
+*
+!.gitignore
+!/metronic-v9.2.3/
+!/metronic-v9.2.3/metronic-react/
+!/metronic-v9.2.3/metronic-react/typescript/
+!/metronic-v9.2.3/metronic-react/typescript/vite/
+!/metronic-v9.2.3/metronic-react/typescript/vite/**
